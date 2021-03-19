@@ -1,6 +1,6 @@
-initial-state
+streams-telemetry-intro
 
-# Exercise 0 > Initial State
+# Exercise 7 > Fusion
 
 In the course video recordings, the instructor uses a `man e` command in the sbt interactive session to display exercise instructions.
 
