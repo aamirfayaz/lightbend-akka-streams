@@ -1,6 +1,6 @@
-building-streams
+optimize-fusion-with-telemetry
 
-# Exercise 4 > Building Streams
+# Exercise 8 > Telemetry
 
 In the course video recordings, the instructor uses a `man e` command in the sbt interactive session to display exercise instructions.
 

@@ -3,6 +3,7 @@ package com.lightbend.akkassembly
 import akka.stream.scaladsl.Sink
 import org.scalatest.freespec.AnyFreeSpec
 
+
 import scala.concurrent.duration._
 
 class BodyShopTest extends AnyFreeSpec with AkkaSpec {
